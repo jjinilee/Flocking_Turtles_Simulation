@@ -1,0 +1,1 @@
+All source files should be compiled and the entry point is the FlockingSimulation.JAVA (inside the default package)
